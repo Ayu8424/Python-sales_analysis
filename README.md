@@ -1,7 +1,3 @@
-Here's your **Sales Analysis Project** README in the same format as the **Pollution Analysis Project**:  
-
----
-
 # 🛒 Sales Analysis Project 📊  
 
 ## 📌 Overview  
