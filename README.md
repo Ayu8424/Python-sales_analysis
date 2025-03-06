@@ -77,13 +77,19 @@ Making complex data **easy to understand** using the right charts and graphs was
 Had to decide **how deep** to go into each analysis while keeping the project **detailed yet concise**.  
 
 ---
-
-## 📌 Conclusion  
-🔹 **December was the most profitable month**, generating the highest revenue.  
-🔹 **San Francisco had the highest sales volume**, followed by other major cities.  
-🔹 **Peak shopping hours were identified**, helping businesses optimize advertisement timings.  
-🔹 **Frequently bought-together products were identified**, useful for bundle promotions.  
-🔹 **The best-selling product was analyzed**, providing insights for marketing strategies.  
+📌 **Conclusion**  
+🔹 December was the most profitable month, generating the highest revenue.  
+🔹 San Francisco had the highest sales volume, followed by other major cities.  
+🔹 Peak shopping hours were identified, helping businesses optimize advertisement timings.  
+    - Growth in sales occurred between **5:00 AM and 11:00 AM**.  
+    - Sales declined **from 11:00 AM to 3:00 PM**.  
+    - A second rise in sales was observed **from 3:00 PM to 8:00 PM**, after which sales declined again.  
+🔹 Frequently bought-together products were identified, useful for bundle promotions.  
+    - **iPhone + Lightning Charging Cable**: 1,005 sales  
+    - **Google Phone + USB-C Charging Cable**: 987 sales  
+    - **iPhone + Wired Headphones**: 447 sales  
+🔹 The best-selling product was analyzed, providing insights for marketing strategies.  
+    - **AAA Batteries** sold the most.  
 
 ---
 
